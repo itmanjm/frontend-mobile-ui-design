@@ -11,7 +11,7 @@ git clone https://github.com/itmanjm/frontend-mobile-ui-design.git \
   ~/.hermes/skills/frontend-mobile-ui-design
 ```
 
-Or copy just `skills/frontend-mobile-ui-design/SKILL.md` into any Hermes skills directory (`~/.hermes/skills/<category>/<name>/SKILL.md`).
+Or copy `SKILL.md` into any Hermes skills directory: `~/.hermes/skills/<category>/frontend-mobile-ui-design/SKILL.md`.
 
 ## What it does
 
